@@ -1,3 +1,11 @@
+/*
+Theme Name: Nutrition Dude
+Theme URI: http://127.0.0.1/wordpress
+Version: 0.1
+Author: Tyler Souza
+*/
+
+
 @import url(http://fonts.googleapis.com/css?family=Anton);
 
 @import url('css/reset.css');
@@ -5,12 +13,7 @@
 @import url('css/text.css');
 
 @import url('css/960.css');
-/*
-Theme Name: Nutrition Dude
-Theme URI: http://127.0.0.1/wordpress
-Version: 0.1
-Author: Tyler Souza
-*/
+
 /***Less Variables***//***rounded corner mixin***/
 /***transition mixin***/
 body,
